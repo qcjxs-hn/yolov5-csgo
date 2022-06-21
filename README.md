@@ -3,7 +3,7 @@
 教程来自：Caesar丶L url:https://space.bilibili.com/14796576
 https://www.bilibili.com/video/BV1b64y1q7sC?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click
 他讲得很好！
-我的数据集：https://cvat.org/projects/24343?page=1
+我的数据集：https://cvat.org/projects/24343?page=1服务器寄了我的数据没了（哭了）
 现在数据集还是较小的，后面有时间会多添加些，大家也可以多添加、多标注些。一起用！
 首先你得照着教程安装YOLOv5
 将这三个文件移入![屏幕截图 2022-01-19 105916](https://user-images.githubusercontent.com/65958464/150060067-ed1d47e8-85d3-4cd7-acec-275563e7f761.jpg)
